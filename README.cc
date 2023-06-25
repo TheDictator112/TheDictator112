@@ -1,88 +1,54 @@
-Configuration instructions
+Auto Learn (AL) application key asi chat adukasi berbasis website dengan Integrasi API menggunakan AI dari OpenAI adalah solusi inovatif yang memadukan teknologi kecerdasan buatan (AI) dengan platform komunikasi online untuk menciptakan pengalaman belajar interaktif dan personal.
 
-Installation instructions
+Dengan aplikasi ini, pengguna dapat mengakses platform belajar yang disediakan melalui website dan berinteraksi langsung dengan asisten AI yang didukung oleh OpenAI. Asisten AI ini dirancang untuk memberikan jawaban, informasi, dan penjelasan terkait topik pendidikan yang beragam, mulai dari teman belajar, ilmu pengetahuan, bahasa, referensi jurnal, dan banyak lagi.
 
-Operating instructions
+Integrasi dengan API dari OpenAI memungkinkan asisten AI untuk memahami pertanyaan yang diajukan oleh pengguna, menganalisis konteks, dan memberikan jawaban yang relevan dan mudah dipahami. Kemampuan AI ini memberikan pengalaman chat yang interaktif dan real-time, mirip dengan berinteraksi dengan seorang tutor pribadi.
 
-A file manifest (a list of files in the directory or archive)
+Aplikasi ini juga dilengkapi dengan fitur tambahan seperti penyimpanan riwayat chat, kemampuan mencari pertanyaan yang sering diajukan, dan kemungkinan penyesuaian tampilan sesuai dengan preferensi pengguna. Semua ini bertujuan untuk menciptakan lingkungan pembelajaran yang intuitif, efektif, dan menyenangkan.
 
-Copyright and licensing information
+Dengan aplikasi Auto Learn ini, pengguna dapat meningkatkan pemahaman mereka dalam berbagai subjek pendidikan, mendapatkan bantuan ketika mereka membutuhkannya, dan mengembangkan keterampilan mereka dengan cara yang interaktif dan adaptif. Ini adalah solusi yang memberdayakan pengguna untuk belajar secara mandiri dengan dukungan teknologi AI yang canggih.
 
-Contact information for the distributor or author
+Bagaimana Penggunaannya?
+Pengguna cukup masuk ke dalam website berbasis AI ini.
+Anda bisa login maupun tidak untuk bisa mengakses laman ini.
+Tentunya jika login, Anda bisa mengatur username, password, dan sebagainya.
+Jika Anda tidak login, tidak masalah. Anda tetap bisa menggunakan aplikasi ini sebagaimana mestinya.
+Ada 3 fitur utama yang bisa Anda coba yaitu chat, translate, dan referensi jurnal.
+Penggunaannya pun cukup mudah dan pasti dimengerti oleh orang awam.
+Penjelasan Per Fitur
+Chat
+Menu Chat dalam aplikasi ini memberikan pengguna akses langsung ke asisten AI yang siap membantu mereka menemukan informasi yang mereka inginkan dengan cepat dan mudah. Dengan menggunakan menu chat, pengguna dapat mengajukan pertanyaan, mencari penjelasan, atau meminta bantuan terkait berbagai topik pendidikan.
 
-A list of known bugs[3]
+Dalam menu chat, pengguna dapat mengetik pertanyaan mereka dengan bebas dan secara interaktif berkomunikasi dengan asisten AI. Asisten AI yang didukung oleh OpenAI akan dengan cepat menganalisis dan memproses pertanyaan tersebut, lalu memberikan jawaban yang relevan dan informatif.
 
-Troubleshooting instructions[3]
+Menu chat ini menawarkan pengalaman belajar yang personal, di mana pengguna dapat dengan mudah mengakses informasi yang mereka butuhkan, tanpa perlu mencari-cari atau menggali secara manual. Dengan asisten AI yang tersedia dalam menu chat, pengguna dapat mengetahui apa saja yang mereka inginkan seputar topik pendidikan yang dipilih.
 
-Credits and acknowledgments
+Selain itu, menu chat juga dilengkapi dengan fitur-fitur tambahan yang memperkaya pengalaman pengguna. Misalnya, pengguna dapat melihat riwayat percakapan sebelumnya, melacak pertanyaan yang sering diajukan, atau menggunakan fitur pencarian untuk menemukan informasi yang relevan dengan cepat.
 
-A changelog (usually aimed at fellow programmers)
+Menu chat ini menjadi jembatan interaktif antara pengguna dan asisten AI, memungkinkan pengguna untuk memperoleh pengetahuan, pemahaman, dan bantuan sesuai dengan kebutuhan mereka. Dengan begitu, pengguna dapat menjelajahi berbagai topik pendidikan dan mengetahui apa saja yang mereka inginkan dengan cara yang mudah, efisien, dan interaktif.
 
-A news section (usually aimed at end users)
+Translate
+Menu Translate dalam aplikasi ini memberikan pengguna kemampuan untuk mengetahui arti dari berbagai bahasa yang mereka inginkan dengan mudah. Dengan menggunakan menu translate, pengguna dapat memasukkan teks dalam bahasa asal dan mendapatkan terjemahan dalam bahasa Indonesia secara instan.
 
-History
+Setelah memasukkan teks dalam bahasa asal, aplikasi akan menggunakan AI yang canggih untuk menerjemahkan teks tersebut ke dalam bahasa Indonesia dengan benar.
 
-Learn more
+Menu translate ini memungkinkan pengguna untuk memahami arti dari berbagai bahasa dengan cepat dan akurat. Dengan kemampuan terjemahan yang cepat, pengguna dapat mengetahui arti dari teks dalam bahasa asing, bahasa daerah, atau bahasa-bahasa lain yang menarik minat mereka.
 
-This section needs expansion. You can help by adding to it. (February 2015)
+Menu translate ini menjadi alat yang berguna bagi pengguna yang ingin menjelajahi dan memahami berbagai bahasa. Dengan fitur-fitur yang disediakan, pengguna dapat mengetahui arti dari semua bahasa yang mereka inginkan dengan cara yang cepat, akurat, dan interaktif.
 
-It is unclear when the convention of including a README file began, but examples dating to the mid-1970s have been found.[4][5][6][7][8][9][2][better source needed] Early Macintosh system software installed a Read Me on the Startup Disk, and README files commonly accompanied third-party software.
+Referensi Jurnal
+Menu Referensi Jurnal dalam aplikasi ini memberikan pengguna akses ke berbagai referensi jurnal yang relevan berdasarkan mata pelajaran yang mereka inputkan. Dengan menggunakan menu referensi jurnal, pengguna dapat menemukan dan menjelajahi jurnal-jurnal ilmiah terkait dengan topik-topik pendidikan yang mereka minati.
 
-In particular, there is a long history of free software and open-source software including a README file; the GNU Coding Standards encourage including one to provide "a general overview of the package".[10]
+Dalam menu referensi jurnal, pengguna dapat memilih mata pelajaran atau topik tertentu yang ingin mereka teliti lebih lanjut. Setelah memasukkan mata pelajaran atau topik, aplikasi menggunakan teknologi AI untuk menganalisis dan mencari jurnal-jurnal ilmiah yang relevan dan terkini.
 
-Since the advent of the web as a de facto standard platform for software distribution, many software packages have moved (or occasionally, copied) some of the above ancillary files and pieces of information to a website or wiki, sometimes including the README itself, or sometimes leaving behind only a brief README file without all of the information required by a new user of the software.
+Menu referensi jurnal ini memberikan pengguna akses ke sumber daya pengetahuan yang berharga. Referensi jurnal yang disediakan dapat mencakup makalah ilmiah, penelitian terbaru, dan artikel-artikel akademik yang berhubungan dengan mata pelajaran yang dipilih.
 
-The popular source code hosting website GitHub strongly encourages the creation of a README file – if one exists in the main (top-level) directory of a repository, it is automatically presented on the repository's front page. In addition to plain text, various other formats and file extensions are also supported,[11] and HTML conversion takes extensions into account – in particular a README.md is treated as GitHub Flavored Markdown.
+Dengan integrasi AI, aplikasi dapat menyajikan referensi jurnal yang paling relevan dan berkualitas tinggi untuk membantu pengguna dalam meneliti topik pendidikan yang mereka pilih. Pengguna dapat menjelajahi abstrak, hasil penelitian, dan temuan-temuan dalam jurnal-jurnal tersebut untuk memperdalam pemahaman mereka.
 
+Menu referensi jurnal ini menjadi alat yang bermanfaat bagi pengguna yang ingin mengakses sumber-sumber penelitian terkini dan terpercaya. Dengan bantuan teknologi AI, pengguna dapat memperoleh referensi jurnal yang sesuai dengan mata pelajaran mereka dengan cara yang efisien, akurat, dan memudahkan eksplorasi pengetahuan.
 
-The expression "readme file" is also sometimes used generically, for other files with a similar purpose.[citation needed] For example, the source-code distributions of many free software packages (especially those following the Gnits Standards or those produced with GNU Autotools) include a standard set of readme files:
+Mini chat
+Dalam mini chat, Anda bisa menanyakan apa saja yang ingin diketahui dengan cepat tanpa mengetahui semua fitur website. Jadi, langkah ini akan sangat memudahkanmu jika ingin mengetahui hal yang kamu bingungkan.
 
-README	
-General information
-AUTHORS	
-Credits
-THANKS	
-Acknowledgments
-
-CHANGELOG	
-A detailed changelog, intended for programmers
-A basic changelog, intended for users
-
-NEWS	
-
-INSTALL	
-Installation instructions
-
-COPYING / LICENSE	
-Copyright and licensing information
-
-BUGS	
-Known bugs and instructions on reporting new ones
-
-CONTRIBUTING / HACKING	
-Guide for prospective contributors to the project
-
-Also commonly distributed with software packages are an FAQ file and a TODO file, which lists planned improvements.
-
-See also
-
-Edit
-
-FILE_ID.DIZ
-
-DESCRIPT.ION
-
-.nfo
-
-man page
-
-- 👋 Hi, I’m @TheDictator112
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-TheDictator112/TheDictator112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Login, Register, dan Edit Profil
+Seperti pada umumnya, ada beberapa fitur untuk memastikan kenyamana pengguna dengan login, register, beserta edit profil sesua dengan yang diinginkan.
