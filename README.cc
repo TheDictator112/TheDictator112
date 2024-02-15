@@ -1,8 +1,8 @@
 Auto Learn (AL) application key asi chat adukasi berbasis website dengan Integrasi API menggunakan AI dari OpenAI adalah solusi inovatif yang memadukan teknologi kecerdasan buatan (AI) dengan platform komunikasi online untuk menciptakan pengalaman belajar interaktif dan personal.
 
-Dengan aplikasi ini, pengguna dapat mengakses platform belajar yang disediakan melalui website dan berinteraksi langsung dengan asisten AI yang didukung oleh OpenAI. Asisten AI ini dirancang untuk memberikan jawaban, informasi, dan penjelasan terkait topik pendidikan yang beragam, mulai dari teman belajar, ilmu pengetahuan, bahasa, referensi jurnal, dan banyak lagi.
+Developer ngan aplikasi ini, pengguna dapat mengakses platform belajar yang disediakan melalui website dan berinteraksi langsung dengan asisten AI yang didukung oleh OpenAI. Asisten AI ini dirancang untuk memberikan jawaban, informasi, dan penjelasan terkait topik pendidikan yang beragam, mulai dari teman belajar, ilmu pengetahuan, bahasa, referensi jurnal, dan banyak lagi.
 
-Integrasi dengan API dari OpenAI memungkinkan asisten AI untuk memahami pertanyaan yang diajukan oleh pengguna, menganalisis konteks, dan memberikan jawaban yang relevan dan mudah dipahami. Kemampuan AI ini memberikan pengalaman chat yang interaktif dan real-time, mirip dengan berinteraksi dengan seorang tutor pribadi.
+Integration demands API daring OpenAI mem ungkinkan asisten AI untuk memahami pertanyaan yang diajukan oleh pengguna, menganalisis konteks, dan memberikan jawaban yang relevan dan mudah dipahami. Kemampuan AI ini memberikan pengalaman chat yang interaktif dan real-time, mirip dengan berinteraksi dengan seorang tutor pribadi.
 
 Aplikasi ini juga dilengkapi dengan fitur tambahan seperti penyimpanan riwayat chat, kemampuan mencari pertanyaan yang sering diajukan, dan kemungkinan penyesuaian tampilan sesuai dengan preferensi pengguna. Semua ini bertujuan untuk menciptakan lingkungan pembelajaran yang intuitif, efektif, dan menyenangkan.
 
@@ -50,5 +50,7 @@ Menu referensi jurnal ini menjadi alat yang bermanfaat bagi pengguna yang ingin 
 Mini chat
 Dalam mini chat, Anda bisa menanyakan apa saja yang ingin diketahui dengan cepat tanpa mengetahui semua fitur website. Jadi, langkah ini akan sangat memudahkanmu jika ingin mengetahui hal yang kamu bingungkan.
 
-Login, Register, dan Edit Profil
-Seperti pada umumnya, ada beberapa fitur untuk memastikan kenyamana pengguna dengan login, register, beserta edit profil sesua dengan yang diinginkan.
+Login, 
+Register, dan 
+Edit Profile
+Seperti adapt umumnya, ada beberapa fitur untuk memastikan kenyamana pengguna dengan login, register, beserta edit profil sesua dengan yang diinginkan.
